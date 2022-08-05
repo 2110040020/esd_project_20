@@ -1,0 +1,4 @@
+universityid       name
+2110040020         G.SRAVANI
+2110040006         K.SRIYA
+2110040039         A.ROOPA
